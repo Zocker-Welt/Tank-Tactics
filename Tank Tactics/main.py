@@ -68,7 +68,7 @@ def tick():
                     if home_button_selected == "play":
                         menu = "choose_level"
                     elif home_button_selected == "code":
-                        pyperclip.copy("text")
+                        pyperclip.copy("https://github.com/Zocker-Welt/Tank-Tactics")
         
 
         # render
